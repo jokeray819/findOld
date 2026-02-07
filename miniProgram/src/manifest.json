@@ -1,0 +1,17 @@
+{
+  "name": "怀旧帮寻物",
+  "appid": "__UNI__FINDOLD",
+  "description": "怀旧物品精准求助 + 赏金悬赏的垂直社区",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "minified": true
+    }
+  },
+  "vueVersion": "3"
+}
