@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+backend/target/
+miniProgram/dist/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs & temp
+*.log
+*.tmp
+.DS_Store
+
+# Env / secrets
+.env
+.env.local
+*.private.config.json
+
+# Java
+*.class
+*.jar
+*.war
